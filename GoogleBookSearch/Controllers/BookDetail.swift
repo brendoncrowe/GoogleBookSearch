@@ -17,8 +17,6 @@ class BookDetail: UIViewController {
     
     var book: Book?
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         updateUI()
@@ -42,7 +40,4 @@ class BookDetail: UIViewController {
         bookAuthors.text = book?.volumeInfo.authors?.joined(separator: ", ")
         bookDescription.text = book?.volumeInfo.description
     }
-    
-    
-    
 }

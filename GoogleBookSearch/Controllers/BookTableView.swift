@@ -5,15 +5,6 @@
 //  Created by Brendon Crowe on 1/12/23.
 //
 
-
-
-
-
-
-/* TODO: Get the data from GOOGLE API
- 
- */
-
 import UIKit
 
 class BookTableView: UIViewController {

@@ -1,5 +1,8 @@
 import UIKit
 
+
+// MARK: This client is help fetch the image for both the cell image and the detail view image
+
 struct Image {
     static func getImage(from urlStr: String,
                   completion: @escaping (Result<UIImage, NetworkError>) -> ()) {

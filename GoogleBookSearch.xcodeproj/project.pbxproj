@@ -73,6 +73,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4019E87B2971FF14005B18C6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				4075F4742971017500231563 /* BookDetail.swift */,
+				4075F4442970CEBF00231563 /* BookTableView.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		4075F4342970CEBF00231563 = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +103,7 @@
 		4075F43F2970CEBF00231563 /* GoogleBookSearch */ = {
 			isa = PBXGroup;
 			children = (
-				4075F4442970CEBF00231563 /* BookTableView.swift */,
-				4075F4742971017500231563 /* BookDetail.swift */,
+				4019E87B2971FF14005B18C6 /* Controllers */,
 				4075F4632970CF8100231563 /* Models-Extensions-APIClients */,
 				4075F4462970CEBF00231563 /* Main.storyboard */,
 				4075F4492970CEC100231563 /* Assets.xcassets */,
@@ -117,10 +125,10 @@
 			isa = PBXGroup;
 			children = (
 				4075F4612970CF7D00231563 /* Book.swift */,
+				4075F4702970DE3300231563 /* BookCell.swift */,
 				4075F4662970D2F400231563 /* Bundle-Extension.swift */,
 				4075F46A2970D8D500231563 /* BookAPIClient.swift */,
 				4075F4722970F5AD00231563 /* ImageAPIClient.swift */,
-				4075F4702970DE3300231563 /* BookCell.swift */,
 				4075F4682970D7F200231563 /* NetworkHelper.swift */,
 				4075F46C2970DA0700231563 /* Files */,
 			);
