@@ -8,6 +8,8 @@
 import Foundation
 
 
+// MARK: For local JSON decoding ONLY
+
 extension Bundle {
     static func readRawJSONData(filename: String, ext: String) -> Data {
         guard let fileUrl = Bundle.main.url(forResource: filename, withExtension: ext) else {

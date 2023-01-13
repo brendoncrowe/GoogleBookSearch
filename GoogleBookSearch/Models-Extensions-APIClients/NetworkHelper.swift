@@ -16,6 +16,7 @@ enum NetworkError: Error {
     case noData
     case badStatusCode(Int)
     case decodingError(Error)
+    case noImage
 }
 
 

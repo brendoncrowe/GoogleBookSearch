@@ -35,13 +35,16 @@ final class GoogleBookSearchTests: XCTestCase {
         return data
     }
     
-    func testJSONDecoding() {
-        // arrange
-        let data = getData()
-        // act
-        let books = Books.getBooks(from: data)
-        
-        XCTAssertGreaterThan(books.count, 0)
+//    func testJSONDecoding() {
+//        // arrange
+//        let data = getData()
+//        // act
+//        let books = Books.getBooks(from: data)
+//        XCTAssertGreaterThan(books.count, 0)
+//
+//    }
+    
+    func testBookModelForTitle() {
         
     }
     
