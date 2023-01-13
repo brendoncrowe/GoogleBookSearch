@@ -78,6 +78,14 @@ extension BookTableView: UITableViewDataSource {
         cell.configureCell(for: book)
         return cell
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        guard let dvc = segue.destination as? BookDetail, let indexPath = tableView.indexPathForSelectedRow else {
+            print("Error with loading Book Detail controller")
+            return
+        }
+        dvc.book = books[indexPath.row]
+    }
 }
 
 extension BookTableView: UITableViewDelegate {
