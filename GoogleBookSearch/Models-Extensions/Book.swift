@@ -25,17 +25,19 @@ struct Book: Decodable {
     let volumeInfo: Volume
 }
 
-extension Books {
-    static func getBooks(from: Data) -> [Book] {
-        var books = [Book]()
-        let data = Bundle.readRawJSONData(filename: "Book", ext: "json")
-        let decoder = JSONDecoder()
-        do {
-            let booksArray = try decoder.decode(Books.self, from: data)
-            books = booksArray.items
-        } catch {
-            fatalError("Could not decode data: \(error)")
-        }
-        return books
-    }
-}
+// MARK: Below code was used to test decoding local JSON
+
+//extension Books {
+//    static func getBooks(from: Data) -> [Book] {
+//        var books = [Book]()
+//        let data = Bundle.readRawJSONData(filename: "Book", ext: "json")
+//        let decoder = JSONDecoder()
+//        do {
+//            let booksArray = try decoder.decode(Books.self, from: data)
+//            books = booksArray.items
+//        } catch {
+//            fatalError("Could not decode data: \(error)")
+//        }
+//        return books
+//    }
+//}

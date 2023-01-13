@@ -19,6 +19,8 @@
 		4075F4672970D2F400231563 /* Bundle-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4075F4662970D2F400231563 /* Bundle-Extension.swift */; };
 		4075F4692970D7F300231563 /* NetworkHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4075F4682970D7F200231563 /* NetworkHelper.swift */; };
 		4075F46B2970D8D500231563 /* BookAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4075F46A2970D8D500231563 /* BookAPIClient.swift */; };
+		4075F46F2970DDF600231563 /* ImageClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4075F46E2970DDF600231563 /* ImageClient.swift */; };
+		4075F4712970DE3300231563 /* BookCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4075F4702970DE3300231563 /* BookCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		4075F4662970D2F400231563 /* Bundle-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Extension.swift"; sourceTree = "<group>"; };
 		4075F4682970D7F200231563 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
 		4075F46A2970D8D500231563 /* BookAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookAPIClient.swift; sourceTree = "<group>"; };
+		4075F46E2970DDF600231563 /* ImageClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClient.swift; sourceTree = "<group>"; };
+		4075F4702970DE3300231563 /* BookCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,8 +96,8 @@
 				4075F4632970CF8100231563 /* Models-Extensions */,
 				4075F4462970CEBF00231563 /* Main.storyboard */,
 				4075F4492970CEC100231563 /* Assets.xcassets */,
-				4075F44B2970CEC100231563 /* LaunchScreen.storyboard */,
 				4075F44E2970CEC100231563 /* Info.plist */,
+				4075F46D2970DA1400231563 /* Supoorting */,
 			);
 			path = GoogleBookSearch;
 			sourceTree = "<group>";
@@ -112,8 +116,9 @@
 				4075F4612970CF7D00231563 /* Book.swift */,
 				4075F4662970D2F400231563 /* Bundle-Extension.swift */,
 				4075F46A2970D8D500231563 /* BookAPIClient.swift */,
+				4075F46E2970DDF600231563 /* ImageClient.swift */,
+				4075F4702970DE3300231563 /* BookCell.swift */,
 				4075F4682970D7F200231563 /* NetworkHelper.swift */,
-				4075F46D2970DA1400231563 /* Supoorting */,
 				4075F46C2970DA0700231563 /* Files */,
 			);
 			path = "Models-Extensions";
@@ -132,6 +137,7 @@
 			children = (
 				4075F4402970CEBF00231563 /* AppDelegate.swift */,
 				4075F4422970CEBF00231563 /* SceneDelegate.swift */,
+				4075F44B2970CEC100231563 /* LaunchScreen.storyboard */,
 			);
 			path = Supoorting;
 			sourceTree = "<group>";
@@ -238,12 +244,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4075F4712970DE3300231563 /* BookCell.swift in Sources */,
 				4075F46B2970D8D500231563 /* BookAPIClient.swift in Sources */,
 				4075F4622970CF7E00231563 /* Book.swift in Sources */,
 				4075F4672970D2F400231563 /* Bundle-Extension.swift in Sources */,
 				4075F4452970CEBF00231563 /* BookTableView.swift in Sources */,
 				4075F4412970CEBF00231563 /* AppDelegate.swift in Sources */,
 				4075F4692970D7F300231563 /* NetworkHelper.swift in Sources */,
+				4075F46F2970DDF600231563 /* ImageClient.swift in Sources */,
 				4075F4432970CEBF00231563 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
