@@ -1,0 +1,277 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3823,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "22eYDwAAQBAJ",
+      "etag": "o4Tv0WYoELc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/22eYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "C. S. Lewis's Mere Christianity",
+        "subtitle": "A Biography",
+        "authors": [
+          "George M. Marsden"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2016-03-29",
+        "description": "The life and times of C. S. Lewis's modern spiritual classic Mere Christianity, C. S. Lewis's eloquent and winsome defense of the Christian faith, originated as a series of BBC radio talks broadcast during the dark days of World War Two. Here is the story of the extraordinary life and afterlife of this influential and much-beloved book. George Marsden describes how Lewis gradually went from being an atheist to a committed Anglican—famously converting to Christianity in 1931 after conversing into the night with his friends J. R. R. Tolkien and Hugh Dyson—and how Lewis delivered his wartime talks to a traumatized British nation in the midst of an all-out war for survival. Marsden recounts how versions of those talks were collected together in 1952 under the title Mere Christianity, and how the book went on to become one of the most widely read presentations of essential Christianity ever published, particularly among American evangelicals. He examines its role in the conversion experiences of such figures as Charles Colson, who read the book while facing arrest for his role in the Watergate scandal. Marsden explores its relationship with Lewis's Narnia books and other writings, and explains why Lewis's plainspoken case for Christianity continues to have its critics and ardent admirers to this day. With uncommon clarity and grace, Marsden provides invaluable new insights into this modern spiritual classic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691153735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691153736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=22eYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=22eYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=22eYDwAAQBAJ&printsec=frontcover&dq=Lewis&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=22eYDwAAQBAJ&dq=Lewis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_S_Lewis_s_Mere_Christianity.html?hl=&id=22eYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/C_S_Lewis_s_Mere_Christianity-sample-pdf.acsm?id=22eYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=22eYDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here is the story of the extraordinary life and afterlife of this influential and much-beloved book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TAW9QhUzk5QC",
+      "etag": "Q01LidQPOwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TAW9QhUzk5QC",
+      "volumeInfo": {
+        "title": "The Essential Lewis and Clark",
+        "authors": [
+          "Landon Y. Jones"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2002-03-19",
+        "description": "The journals of Meriwether Lewis and William Clark remain the single most important document in the history of American exploration. Through these tales of adventure, edited and annotated by American Book Award nominee Landon Jones, we meet Indian peoples and see the Great Plains, the Rocky Mountains, and western rivers the way Lewis and Clark first observed them -- majestic, pristine, uncharted, and awe-inspiring.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060011598"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0060011599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TAW9QhUzk5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TAW9QhUzk5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TAW9QhUzk5QC&printsec=frontcover&dq=Lewis&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TAW9QhUzk5QC&dq=Lewis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Essential_Lewis_and_Clark.html?hl=&id=TAW9QhUzk5QC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TAW9QhUzk5QC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through these tales of adventure, edited and annotated by American Book Award nominee Landon Jones, we meet Indian peoples and see the Great Plains, the Rocky Mountains, and western rivers the way Lewis and Clark first observed them -- ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yp6sdsp6jWkC",
+      "etag": "ZUf33OOQwyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yp6sdsp6jWkC",
+      "volumeInfo": {
+        "title": "A Year with C. S. Lewis",
+        "subtitle": "Daily Readings from His Classic Works",
+        "authors": [
+          "C. S. Lewis"
+        ],
+        "publisher": "Zondervan",
+        "publishedDate": "2003-10-21",
+        "description": "Beloved author C. S. Lewis is our trusted guide in this intimate day-by-day companion offering his distinctive and celebrated wisdom. Amidst the bustle of our daily experience, A Year with C. S. Lewis provides the necessary respite and inspiration to meet the many challenges we face in our lives. Ruminating on such themes as the nature of love, the existence of miracles, overcoming a devastating loss, and discovering a profound faith, Lewis offers unflinchingly honest insight for each day of the year. These daily meditations have been culled from Lewis's celebrated Signature Classics: Mere Christianity, The Screwtape Letters, The Great Divorce, The Problem of Pain, Miracles, and A Grief Observed, as well as from the distinguished works The Weight of Glory and The Abolition of Man. Throughout this elegant daybook the reader will find poignant biographical com-mentary about C. S. Lewis's life that offers a remarkable portrait of Lewis in the context of his work. As each day unfolds, we embark on a path of discovery with a friend by your side. A Year with C. S. Lewis is the perfect com-panion for everyone who cherishes Lewis's timeless words.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060566166"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0060566167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yp6sdsp6jWkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yp6sdsp6jWkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Yp6sdsp6jWkC&printsec=frontcover&dq=Lewis&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Yp6sdsp6jWkC&dq=Lewis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Year_with_C_S_Lewis.html?hl=&id=Yp6sdsp6jWkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yp6sdsp6jWkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As each day unfolds, we embark on a path of discovery with a friend by your side. A Year with C. S. Lewis is the perfect com-panion for everyone who cherishes Lewis&#39;s timeless words."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YrEqDQAAQBAJ",
+      "etag": "g634F2qorcw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YrEqDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Lewis Carroll's Games and Puzzles",
+        "authors": [
+          "Lewis Carroll",
+          "Edward Wakeling"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1992-03-27",
+        "description": "Forty-two perplexing puzzles by creator of Alice in Wonderland: Cakes in a Row, Looking-Glass Time, Arithmetical Croquet, Diverse Doublets, and others. Hints, solutions. Illustrations by John Tenniel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486269221"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486269221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YrEqDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YrEqDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+        }
+    }]
+}
